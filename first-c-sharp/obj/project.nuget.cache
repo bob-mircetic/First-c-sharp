@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Qev6/D5XxtfxdiDIisj4Mt3nju+bmMEKRVDnlgQrhib+MzRcod0P7kK9EbvNa+oa7xpsc7avyeRaEe3p4TWUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bmircetic\\nelnet-projects\\first-c-sharp\\first-c-sharp\\first-c-sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmircetic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
